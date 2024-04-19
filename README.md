@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 <div id="header" align="center">
   <img src="https://s9.gifyu.com/images/SZiBp.gif" width="500"/>
 </div>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <h1>
-  hey there
+  Hello_World
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
