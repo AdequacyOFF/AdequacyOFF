@@ -8,7 +8,7 @@
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/telegram-app.png" alt="telegram-app"/>
   </a>
   <a href="your-youtube-URL">
-    <img width"=64" height"=64" src"=https://img.icons8.com/nolan/64/youtube-play.png" alt"=youtube-play"/>
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/youtube-play.png" alt"=youtube-play"/>
   </a>
   <a>
     <img src="https://komarev.com/ghpvc/?AdequacyOFF=your-github-AdequacyOFF&style=flat-square&color=blue" alt=""/>
