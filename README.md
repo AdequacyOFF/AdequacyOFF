@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="file:///E:/WD%20elements/Фриланс/Logo%202_2.png" width="100"/>
+</div>
 
 <!--
 **AdequacyOFF/AdequacyOFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
