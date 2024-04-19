@@ -23,7 +23,7 @@
 
 
 ### :man_technologist: About us :
-We are Frontend Developers, Backend Developers, Data Science Developers and Leatning Machine Developers <img src="https://otkritkis.com/wp-content/uploads/2022/07/hrhjq.gif" width="64"/> from Russia
+We are Frontend Developers, Backend Developers, Data Science Developers and Learning Machine Developers <img src="https://otkritkis.com/wp-content/uploads/2022/07/hrhjq.gif" width="64"/> from Russia
 
 
 ---
