@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="file:///E:/WD%20elements/Фриланс/Logo%202_2.png" width="100"/>
+  <img src="https://drive.google.com/open?id=14YlmQe-DuU6l5su33JHsbHjKZIEI474P&usp=drive_fs" width="100"/>
 </div>
 
 <!--
