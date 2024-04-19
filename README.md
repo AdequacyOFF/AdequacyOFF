@@ -4,7 +4,7 @@
 </div>
 <div id="badges" align="center">
   
-  <a href="your-linkedin-URL">
+  <a href="telegram.me/siferony">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/telegram-app.png" alt="telegram-app"/>
   </a>
   <a href="your-youtube-URL">
